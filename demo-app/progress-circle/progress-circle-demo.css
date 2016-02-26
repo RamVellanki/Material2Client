@@ -1,0 +1,5 @@
+.demo-progress-circle-container {
+  width: 100%; }
+  .demo-progress-circle-container md-progress-circle,
+  .demo-progress-circle-container md-spinner {
+    display: inline-block; }

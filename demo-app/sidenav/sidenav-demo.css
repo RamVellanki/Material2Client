@@ -1,0 +1,4 @@
+md-sidenav-layout {
+  border: 3px solid black; }
+  md-sidenav-layout md-sidenav {
+    padding: 10px; }

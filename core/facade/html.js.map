@@ -1,0 +1,1 @@
+{"version":3,"file":"html.js","sourceRoot":"/","sources":["core/facade/html.ts"],"names":["getComputedStyle"],"mappings":";IACA,0BAAiC,OAAoB,EAAE,SAAkB;QACvEA,MAAMA,CAACA,MAAMA,CAACA,gBAAgBA,CAACA,OAAOA,EAAEA,SAASA,CAACA,CAACA;IACrDA,CAACA;IAFD,+CAEC,CAAA"}

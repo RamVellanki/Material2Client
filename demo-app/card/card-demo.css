@@ -1,0 +1,21 @@
+md-card {
+  margin: 0 16px 16px 0;
+  width: 350px; }
+
+.card-container {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: column nowrap;
+          flex-flow: column nowrap; }
+
+.blue {
+  background-color: #B0BECC; }
+
+.blue md-card-actions {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column; }
+
+img {
+  background-color: gray; }

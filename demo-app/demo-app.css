@@ -1,0 +1,39 @@
+div.content {
+  padding: 10px; }
+  
+  md-card {
+  margin: 0 16px 16px 0;
+  width: 350px; }
+
+.card-container {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: column nowrap;
+          flex-flow: column nowrap; }
+
+.blue {
+  background-color: #B0BECC; }
+
+.blue md-card-actions {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+          flex-direction: column; }
+
+img {
+  background-color: gray; }
+  
+  
+  * {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+button, a {
+  margin: 8px;
+  text-transform: uppercase; }
+
+section {
+  background-color: #f7f7f7;
+  margin: 8px; }
+
+

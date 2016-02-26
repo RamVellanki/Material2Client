@@ -1,0 +1,11 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+button, a {
+  margin: 8px;
+  text-transform: uppercase; }
+
+section {
+  background-color: #f7f7f7;
+  margin: 8px; }
